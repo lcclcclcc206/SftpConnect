@@ -46,6 +46,8 @@ using (Session session = new Session())
     }
 }
 
+Console.ReadKey();
+
 return 0;
 
 public sealed class ConnectionInfo
